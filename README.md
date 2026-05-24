@@ -63,18 +63,12 @@ This project is a Frogger game developed using Java and JavaFX with Object-Orien
 <img width="330" height="382" alt="image" src="https://github.com/user-attachments/assets/55745f7b-11e1-4f45-a87c-4eaf39368f1a" />
 
 
-## Features & Concepts:
-
--Main Menu
--Gameplay
--Night Mode
--Game Over Screen
--OOP Concepts Used
--Classes and Objects
--Encapsulation
--Inheritance
--Polymorphism
--Abstraction
-
+### OOP Concepts Used
+- Classes and Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+  
 ## Project Status
 Completed ✔️

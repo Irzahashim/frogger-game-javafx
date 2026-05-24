@@ -1,49 +1,43 @@
-**Frogger Game in JavaFX**
-**Project Description:**
+# Frogger Game in JavaFX
 
+## Project Description
 This project is a Frogger game developed using Java and JavaFX with Object-Oriented Programming (OOP) concepts.
-The player controls a frog and tries to cross the road and river while avoiding cars and water obstacles.
 
-**Features**
-**Multiple difficulty levels:**
-Easy
-Medium
-Hard
+## Features
+- Multiple difficulty levels
+- Animated frog movement
+- Moving cars and logs
+- Collision detection
+- Score system
+- Night mode
+- Sound effects
 
-Animated frog movement
-Moving cars and logs
-Collision detection
-Score system
-High score system
-Night mode
-Sound effects
-Particle and death animations
-Game over and winning screens
+## Technologies Used
+- Java
+- JavaFX
+- OOP
 
-**Technologies Used:**
-Java
-JavaFX
-Object-Oriented Programming (OOP)
-Controls
+## Controls
 
-**Key	Function:**
-Arrow Keys	Move Frog
-Enter / Space	Start Game
-R	Restart / Return to Menu
-N	Toggle Night Mode
+| Key | Function |
+|-----|----------|
+| Arrow Keys | Move Frog |
+| Enter / Space | Start Game |
+| R | Restart |
+| N | Night Mode |
 
-**Team Members:**
-Irza Hashim
-Aiman Fatima
-Ayesha Afzal
-Eman
+## Team Members
+- Aiman Fatima
+- Irza Hashim
+- Ayesha Afzal
+- Eman
 
-**How to Run the Project**
-Open the project in IntelliJ IDEA or any Java IDE.
-Make sure JavaFX is installed and configured.
-Run the Frogger.java file.
-Enjoy the game.
-**Screenshots:**
+## How to Run
+1. Open project in IntelliJ IDEA
+2. Configure JavaFX
+3. Run `Frogger.java`
+
+## Screenshots
 Main menu screen
 <img width="514" height="607" alt="image" src="https://github.com/user-attachments/assets/0ec9bda6-91d2-4317-befa-c68f9a510c96" />
 Playing screen
@@ -58,7 +52,7 @@ Night mode screen (Playing screen)
 <img width="330" height="382" alt="image" src="https://github.com/user-attachments/assets/55745f7b-11e1-4f45-a87c-4eaf39368f1a" />
 
 
-**Features:**
+## Features:
 
 Main Menu
 Gameplay
@@ -71,5 +65,5 @@ Inheritance
 Polymorphism
 Abstraction
 
-**Project Status**
+## Project Status
 Completed ✔️
